@@ -1,0 +1,44 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: 0;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(188, 7, 7);
+    border-radius: 10px;
+}
+.img{
+    margin-left: 10px;
+}
+.numberclass{
+    margin-right: 15px;
+}
+
+.container{
+    margin: 0 50px;
+}
+.navbar a{
+    text-decoration: none;
+}
+.wrap{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.content{
+    margin-top: 50px;
+}
+.wrap div{
+    border-right: 1px solid black;
+    padding-left: 10px;
+}
+
